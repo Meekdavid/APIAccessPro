@@ -11,7 +11,6 @@ using Azure;
 using Microsoft.Azure.Cosmos;
 using Microsoft.Azure.Cosmos.Serialization.HybridRow;
 using Newtonsoft.Json;
-using ProgramsTask.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

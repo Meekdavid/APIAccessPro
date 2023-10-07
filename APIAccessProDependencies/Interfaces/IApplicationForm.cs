@@ -1,6 +1,5 @@
 ﻿using APIAccessProDependencies.Helpers.DTOs;
 using APIAccessProDependencies.Helpers.DTOs.Models;
-using ProgramsTask.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

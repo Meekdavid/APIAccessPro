@@ -26,3 +26,24 @@
 2023-10-07 14:13:40.026 +01:00 [INF] Executed action APIAccessPro.Controllers.ApplicationFormController.RetrieveForms (APIAccessPro) in 41365.3858ms
 2023-10-07 14:13:40.031 +01:00 [INF] Executed endpoint 'APIAccessPro.Controllers.ApplicationFormController.RetrieveForms (APIAccessPro)'
 2023-10-07 14:13:40.033 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/api/Retreive Forms - - - 200 857 application/json;+charset=utf-8 41398.6623ms
+2023-10-07 18:33:33.853 +01:00 [WRN] Overriding address(es) 'https://localhost:5001, http://localhost:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2023-10-07 18:33:34.048 +01:00 [INF] Now listening on: http://localhost:5000
+2023-10-07 18:33:34.054 +01:00 [INF] Now listening on: https://localhost:5001
+2023-10-07 18:33:34.059 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-07 18:33:34.065 +01:00 [INF] Hosting environment: Development
+2023-10-07 18:33:34.071 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\APIAccessPro\APIAccessPro\
+2023-10-07 18:33:35.717 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - -
+2023-10-07 18:33:36.829 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 1122.5445ms
+2023-10-07 18:33:36.831 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - -
+2023-10-07 18:33:36.865 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink - -
+2023-10-07 18:33:36.908 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 76.1747ms
+2023-10-07 18:33:37.038 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 172.7730ms
+2023-10-07 18:33:37.329 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - -
+2023-10-07 18:33:37.800 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 470.3087ms
+2023-10-07 18:33:45.116 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Retreive Forms - -
+2023-10-07 18:33:45.197 +01:00 [INF] Executing endpoint 'APIAccessPro.Controllers.ApplicationFormController.RetrieveForms (APIAccessPro)'
+2023-10-07 18:33:45.261 +01:00 [INF] Route matched with {action = "RetrieveForms", controller = "ApplicationForm"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[APIAccessProDependencies.Helpers.DTOs.Models.ApplicationForm.ApplicationFormResponse]] RetrieveForms() on controller APIAccessPro.Controllers.ApplicationFormController (APIAccessPro).
+2023-10-07 18:33:51.207 +01:00 [INF] Executing ObjectResult, writing value of type 'APIAccessProDependencies.Helpers.DTOs.Models.ApplicationForm.ApplicationFormResponse'.
+2023-10-07 18:33:51.298 +01:00 [INF] Executed action APIAccessPro.Controllers.ApplicationFormController.RetrieveForms (APIAccessPro) in 6019.915ms
+2023-10-07 18:33:51.313 +01:00 [INF] Executed endpoint 'APIAccessPro.Controllers.ApplicationFormController.RetrieveForms (APIAccessPro)'
+2023-10-07 18:33:51.317 +01:00 [INF] Request finished HTTP/2 GET https://localhost:5001/api/Retreive Forms - - - 200 857 application/json;+charset=utf-8 6200.3152ms
