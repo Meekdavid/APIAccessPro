@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {}
+    "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
+    "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
+        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
         "projectName": "APIAccessProDependencies",
-        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
+        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
         "packagesPath": "C:\\Users\\David Mboko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\obj\\",
+        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Mboko\\AppData\\Roaming\\NuGet\\NuGet.Config",

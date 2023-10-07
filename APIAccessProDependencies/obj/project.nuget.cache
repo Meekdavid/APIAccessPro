@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3842tXHnkbZt99RAMGcLTfBPmUQaYOdcYGf3dLh1Qd1wut5vNSON3cy/t5bKydUesvjobK0fD4bA/NO/t7aWoQ==",
+  "dgSpecHash": "1n7cVuqYenTYhKaI3TVmmR8ct2LVG2owqAzqm0vdcGSRgC/IXQDOvCopAaiIFJe6R1aaAzPZAvahX1JdEeMruQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
+  "projectFilePath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Mboko\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

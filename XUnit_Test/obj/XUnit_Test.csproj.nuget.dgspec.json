@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj": {}
+    "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
+    "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
+        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
         "projectName": "APIAccessProDependencies",
-        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
+        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj",
         "packagesPath": "C:\\Users\\David Mboko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\obj\\",
+        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Mboko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj": {
+    "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj",
+        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj",
         "projectName": "APIAccessPro",
-        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj",
+        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj",
         "packagesPath": "C:\\Users\\David Mboko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessPro\\obj\\",
+        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessPro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Mboko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,8 +137,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
-                "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj"
+              "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
+                "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj": {
+    "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj",
+        "projectUniqueName": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj",
         "projectName": "XUnit_Test",
-        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj",
+        "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\XUnit_Test\\XUnit_Test.csproj",
         "packagesPath": "C:\\Users\\David Mboko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\XUnit_Test\\obj\\",
+        "outputPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\XUnit_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Mboko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -256,11 +256,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
-                "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj"
+              "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj": {
+                "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessProDependencies\\APIAccessProDependencies.csproj"
               },
-              "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj": {
-                "projectPath": "C:\\Users\\David Mboko\\Desktop\\Git\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj"
+              "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj": {
+                "projectPath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\APIAccessPro\\APIAccessPro\\APIAccessPro.csproj"
               }
             }
           }
